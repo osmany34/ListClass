@@ -1,4 +1,4 @@
-# MyList Projesi README
+# MyList Projesi 
 
 Bu proje, Java programlama dilinde yazılmış basit bir dinamik dizi (MyList) sınıfını içermektedir. Dinamik dizi, değişken boyutlara sahip bir diziyi temsil eder ve dinamik olarak büyür veya küçülür.
 
